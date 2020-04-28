@@ -2,11 +2,20 @@
     <img alt="GoStack" src="https://i.lensdump.com/i/jCEM0c.png" />
 </p>
 
-## :rocket: First Project with <span style="color:deepskyblue;">ReactJS</span>
+# :rocket: First Project with <span style="color:deepskyblue;">ReactJS</span>
 
-First project for the **third week(F 04)** of Bootcamp GoStack 11.
+## :bulb:About Project
+First project for the **third week(F 04)** of Bootcamp GoStack 11. Github repositories explorer made with ReactJS + Typescript.
 
-Project completed on xx/04/2020.
+Project completed on 28/04/2020.
+
+## :wrench: Tecnology
+
+- [ReactJS](https://reactjs.org/)
+- [Typescript](https://www.typescriptlang.org/)
+- [Polished](https://polished.js.org/)
+- [Styled Components](https://styled-components.com/)
+
 
 ## :gear: Getting Started
 
@@ -21,9 +30,9 @@ yarn start
 
 ## Demo
 
-<img alt="GoStack" src="" />
+<img src="https://i.lensdump.com/i/j90lpC.gif" alt="Demo do projeto Github Explorer" />
 
-## :man: :man_astronaut: Author
+## :man_astronaut: Author
 
 **Guilherme Bezerra** ©️
 
